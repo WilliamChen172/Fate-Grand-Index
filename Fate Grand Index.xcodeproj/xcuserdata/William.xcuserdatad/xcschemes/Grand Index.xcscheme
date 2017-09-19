@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "3D32825A1F70D4660096B952"
-               BuildableName = "Grand Index.app"
-               BlueprintName = "Grand Index"
-               ReferencedContainer = "container:Grand Index.xcodeproj">
+               BuildableName = "Fate Grand Index.app"
+               BlueprintName = "Fate Grand Index"
+               ReferencedContainer = "container:Fate Grand Index.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "3D32825A1F70D4660096B952"
-            BuildableName = "Grand Index.app"
-            BlueprintName = "Grand Index"
-            ReferencedContainer = "container:Grand Index.xcodeproj">
+            BuildableName = "Fate Grand Index.app"
+            BlueprintName = "Fate Grand Index"
+            ReferencedContainer = "container:Fate Grand Index.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -56,9 +56,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "3D32825A1F70D4660096B952"
-            BuildableName = "Grand Index.app"
-            BlueprintName = "Grand Index"
-            ReferencedContainer = "container:Grand Index.xcodeproj">
+            BuildableName = "Fate Grand Index.app"
+            BlueprintName = "Fate Grand Index"
+            ReferencedContainer = "container:Fate Grand Index.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -75,9 +75,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "3D32825A1F70D4660096B952"
-            BuildableName = "Grand Index.app"
-            BlueprintName = "Grand Index"
-            ReferencedContainer = "container:Grand Index.xcodeproj">
+            BuildableName = "Fate Grand Index.app"
+            BlueprintName = "Fate Grand Index"
+            ReferencedContainer = "container:Fate Grand Index.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

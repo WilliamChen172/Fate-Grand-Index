@@ -15,7 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		3D32825B1F70D4660096B952 /* Grand Index.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Grand Index.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		3D32825B1F70D4660096B952 /* Fate Grand Index.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Fate Grand Index.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		3D32825E1F70D4660096B952 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		3D3282601F70D4660096B952 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		3D3282631F70D4660096B952 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -38,7 +38,7 @@
 		3D3282521F70D4650096B952 = {
 			isa = PBXGroup;
 			children = (
-				3D32825D1F70D4660096B952 /* Grand Index */,
+				3D32825D1F70D4660096B952 /* Fate Grand Index */,
 				3D32825C1F70D4660096B952 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -46,12 +46,12 @@
 		3D32825C1F70D4660096B952 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				3D32825B1F70D4660096B952 /* Grand Index.app */,
+				3D32825B1F70D4660096B952 /* Fate Grand Index.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		3D32825D1F70D4660096B952 /* Grand Index */ = {
+		3D32825D1F70D4660096B952 /* Fate Grand Index */ = {
 			isa = PBXGroup;
 			children = (
 				3D32825E1F70D4660096B952 /* AppDelegate.swift */,
@@ -61,15 +61,16 @@
 				3D3282671F70D4660096B952 /* LaunchScreen.storyboard */,
 				3D32826A1F70D4660096B952 /* Info.plist */,
 			);
+			name = "Fate Grand Index";
 			path = "Grand Index";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		3D32825A1F70D4660096B952 /* Grand Index */ = {
+		3D32825A1F70D4660096B952 /* Fate Grand Index */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 3D32826D1F70D4660096B952 /* Build configuration list for PBXNativeTarget "Grand Index" */;
+			buildConfigurationList = 3D32826D1F70D4660096B952 /* Build configuration list for PBXNativeTarget "Fate Grand Index" */;
 			buildPhases = (
 				3D3282571F70D4660096B952 /* Sources */,
 				3D3282581F70D4660096B952 /* Frameworks */,
@@ -79,9 +80,9 @@
 			);
 			dependencies = (
 			);
-			name = "Grand Index";
+			name = "Fate Grand Index";
 			productName = "Grand Index";
-			productReference = 3D32825B1F70D4660096B952 /* Grand Index.app */;
+			productReference = 3D32825B1F70D4660096B952 /* Fate Grand Index.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -100,7 +101,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 3D3282561F70D4650096B952 /* Build configuration list for PBXProject "Grand Index" */;
+			buildConfigurationList = 3D3282561F70D4650096B952 /* Build configuration list for PBXProject "Fate Grand Index" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -113,7 +114,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				3D32825A1F70D4660096B952 /* Grand Index */,
+				3D32825A1F70D4660096B952 /* Fate Grand Index */,
 			);
 		};
 /* End PBXProject section */
@@ -285,7 +286,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		3D3282561F70D4650096B952 /* Build configuration list for PBXProject "Grand Index" */ = {
+		3D3282561F70D4650096B952 /* Build configuration list for PBXProject "Fate Grand Index" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				3D32826B1F70D4660096B952 /* Debug */,
@@ -294,7 +295,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		3D32826D1F70D4660096B952 /* Build configuration list for PBXNativeTarget "Grand Index" */ = {
+		3D32826D1F70D4660096B952 /* Build configuration list for PBXNativeTarget "Fate Grand Index" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				3D32826E1F70D4660096B952 /* Debug */,
