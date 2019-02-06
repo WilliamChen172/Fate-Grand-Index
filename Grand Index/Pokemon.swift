@@ -71,7 +71,6 @@ class Pokemon{
     
     func downloadPokemonDetails(complete: @escaping DownloadComplete) {
         let url = URL(string: _pokemonURL)!
-        print(url)
         Alamofire.request(url).responseJSON { response in
             let result = response.result
             if let dict = result.value as? Dictionary<String, AnyObject> {
@@ -115,7 +114,6 @@ class Pokemon{
     }
     func downloadPokemonSpeciesDetails(complete: @escaping DownloadComplete) {
         let specUrl = URL(string: "\(URL_BASE)\(URL_POKEMON_SPECIES)\(self._pokedexId!)")!
-        print(specUrl)
         Alamofire.request(specUrl).responseJSON(completionHandler: { response in
             let specResult = response.result
             if let specDict = specResult.value as? Dictionary<String, AnyObject> {
@@ -123,11 +121,9 @@ class Pokemon{
                     if let specName = specEvol["name"] as? String {
                         self._prevEvol = specName
                     }
-                    print(self._prevEvol)
                     if let specId = specEvol["url"] as? String {
                         self._prevEvolId = Int(specId.dropFirst(URL_BASE.count + URL_POKEMON_SPECIES.count).dropLast())
                     }
-                    print(self._prevEvolId)
                 } else {
                     self._prevEvol = ""
                     self._prevEvolId = 0
