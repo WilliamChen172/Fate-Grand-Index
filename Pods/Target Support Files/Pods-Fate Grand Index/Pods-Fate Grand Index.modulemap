@@ -1,0 +1,6 @@
+framework module Pods_Fate_Grand_Index {
+  umbrella header "Pods-Fate Grand Index-umbrella.h"
+
+  export *
+  module * { export * }
+}
